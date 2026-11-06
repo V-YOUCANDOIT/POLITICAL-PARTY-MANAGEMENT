@@ -1,0 +1,6 @@
+{
+  "name": "POLITIX - Political Party Management & Campaign Operations Platform",
+  "description": "Enterprise-grade, fully local political party management system with campaign operations, volunteer management, surveys, events, finances, and role-based administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
